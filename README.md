@@ -7,7 +7,7 @@ Key Features
 1. Rapid response times, with replies usually taking only 3-5 seconds
 2. No limitations on the number of requests
 3. Syntax highlighting for code snippets
-4. Custom chat modes: including Assistant, Code Assistant, and Movie Expert, with more to come
+4. Custom chat modes: including Personal Assistant, Code Assistant,
 5. Whitelist of authorized Telegram users
 6. Monitoring of API usage costs using the OpenAI API
 
