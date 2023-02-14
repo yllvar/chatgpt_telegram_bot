@@ -36,4 +36,3 @@ docker-compose --env-file config/config.env up --build
 
 Additional Resources
 1. Build ChatGPT from GPT-3
-
